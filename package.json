@@ -1,9 +1,9 @@
 {
-  "name": "api.population.io-js",
+  "name": "api-population-io-js",
   "version": "1.0.0",
   "description": "JavaScript higher-level wrapper around population.io API",
   "main": "lib/index.js",
-  "repository": "git@github.com:TheRizzen/api.population.io-js.git",
+  "repository": "git@github.com:TheRizzen/api-population-io-js.git",
   "author": "Thibault Miranda de Oliveira <thibault@mirandadeoliveira.com>",
   "license": "MIT",
   "devDependencies": {
