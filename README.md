@@ -4,18 +4,18 @@ Simple universal Javascript Wrapper around Population.IO API
 
 ## Installation
 
-`$ yarn add api-population-io-js`
+`$ yarn add api-population-io`
 
-`$ npm install --save api-population-io-js`
+`$ npm install --save api-population-io`
 
 ## Usage
 
 Import the module in your code
 
 ```javascript
-import populationIO from 'api-population-io-js';
+import populationIO from 'api-population-io';
 
-const populationIO = require('api-population-io-js');
+const populationIO = require('api-population-io');
 ```
 
 Then, use the module to perform your request to PopulationIO API

@@ -1,6 +1,6 @@
 {
   "name": "api-population-io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript higher-level wrapper around population.io API",
   "main": "lib/index.js",
   "repository": "git@github.com:TheRizzen/api-population-io.git",
