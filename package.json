@@ -16,5 +16,16 @@
   },
   "dependencies": {
     "axios": "^0.18.0"
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base",
+    "env": {
+      "node": true,
+      "es6": true,
+      "jest": true
+    },
+    "rules": {
+      "no-underscore-dangle": 0
+    }
   }
 }
